@@ -1,6 +1,6 @@
 # SDK-2013-Options
 
-Direct port of the Half-Life 2 styled options menu from GameUI.dll.
+Direct port of the Half-Life 2 styled options menu from GameUI.dll to the client.
 
 
 ## How to compile.
